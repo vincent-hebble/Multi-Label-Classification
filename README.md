@@ -23,4 +23,4 @@ File Name: '1-s2.0-S2352340917303487-mmc2.csv'
 
 Running The Program:
 
-If the code is run on Google Colab and the file is stored as above then run all cells should run all experiments. If the file is run outside of google colab the dependencies mentioned above should be downloaded and the file location shoul dbe changed to your local directory
+If the code is run on Google Colab and the file is stored as above then run all cells should run all experiments. If the file is run outside of google colab the dependencies mentioned above should be downloaded and the file location should be changed to your local directory
